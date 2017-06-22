@@ -1,0 +1,305 @@
+## Глаголы
+# être
+je <suis>
+tu <es>
+il <est>
+nous <sommes>
+vous <êtes>
+ils <sont>
+P.c.: <été>
+
+# avoir
+j'<ai>
+tu <as>
+il <a>
+nous <avons>
+vous <avez>
+ils <ont>
+P.c.: <eu>
+
+# aller
+je <vais>
+tu <vas>
+il <va>
+nous <allons>
+vous <allez>
+ils <vont>
+P.c.: <allé>
+
+# pouvoir
+je <peux>
+tu <peux>
+il <peut>
+nous <pouvons>
+vous <pouvez>
+ils <peuvent>
+P.c.: <pu>
+
+# pouvoir
+je <peux>
+tu <peux>
+il <peut>
+nous <pouvons>
+vous <pouvez>
+ils <peuvent>
+P.c.: <pu>
+
+# vouloir
+je <veux>
+tu <veux>
+il <veut>
+nous <voulons>
+vous <voulez>
+ils <veulent>
+P.c.: <voulu>
+
+# prendre
+je <prends>
+tu <prends>
+il <prend>
+nous <prenons>
+vous <prenez>
+ils <prenent>
+P.c.: <pris>
+
+# faire
+je <fais>
+tu <fais>
+il <fait>
+nous <faisons>
+vous <faites>
+ils <font>
+P.c.: <fait>
+
+# venir
+je <viens>
+tu <viens>
+il <vient>
+nous <venons>
+vous <venez>
+ils <viennent>
+P.c.: <venu>
+
+# attendre
+je <attends>
+tu <attends>
+il <attend>
+nous <attendons>
+vous <attendez>
+ils <attendent>
+P.c.: <attendu>
+
+# devoir
+je <dois>
+tu <dois>
+il <doit>
+nous <devons>
+vous <devez>
+ils <doivent>
+P.c.: <du>
+
+# ouvrir
+j'<ouvre>
+tu <ouvres>
+il <ouvre>
+nous <ouvrons>
+vous <ouvrez>
+ils <ouvrent>
+P.c.: <ouvert>
+
+# vendre
+je <vends>
+tu <vends>
+il <vend>
+nous <vendons>
+vous <vendez>
+ils <vendent>
+P.c.: <vendu>
+
+# savoir
+je <sais>
+tu <sais>
+il <sait>
+nous <savons>
+vous <savez>
+ils <savent>
+P.c.: <su>
+
+# voir
+je <vois>
+tu <vois>
+il <voit>
+nous <voyons>
+vous <voyez>
+ils <voient>
+P.c.: <vu>
+
+# lire
+je <lis>
+tu <lis>
+il <lit>
+nous <lisons>
+vous <lisez>
+ils <lisent>
+P.c.: <lu>
+
+# écrire
+j'<ecris>
+tu <ecris>
+il <écrit>
+nous <écrivons>
+vous <écrivez>
+ils <écrivent>
+P.c.: <écrit>
+
+# mettre
+je <mets>
+tu <mets>
+il <met>
+nous <metton>
+vous <mettez>
+ils <mettent>
+P.c.: <mis>
+
+# parler
+je <parle>
+tu <parles>
+il <parle>
+nous <parlons>
+vous <parlez>
+ils <parlent>
+P.c.: <parlé>
+
+# finir
+je <finis>
+tu <finis>
+il <finit>
+nous <finissons>
+vous <finissent>
+ils <finissent>
+P.c.: <fini>
+
+# dire
+je <dis>
+tu <dis>
+il <dit>
+nous <disons>
+vous <dites>
+ils <disent>
+P.c.: <dit>
+
+# naitre
+je <nais>
+tu <nais>
+il <nait>
+nous <naissons>
+vous <naissez>
+ils <naissent>
+P.c.: <né>
+
+# mourir
+je <meurs>
+tu <meurs>
+il <meurt>
+nous <mourons>
+vous <mourez>
+ils <meurent>
+P.c.: <mort>
+
+# boire
+je <bois>
+tu <bois>
+il <boit>
+nous <buvons>
+vous <buvez>
+ils <boivent>
+P.c.: <bu>
+
+# conaitre
+je <connais>
+tu <connais>
+il <connait>
+nous <connaissons>
+vous <connaissez>
+ils <connaissent>
+P.c.: <connu>
+
+# partir
+je <pars>
+tu <pars>
+il <part>
+nous <partons>
+vous <partez>
+ils <partent>
+P.c.: <parti>
+
+# vivre
+je <vis>
+tu <vis>
+il <vit>
+nous <vivons>
+vous <vivez>
+ils <vivent>
+P.c.: <vécu>
+
+## Существительные - перевод
+# Числа
+0 - <zéro>
+1 - <un>
+2 - <deux>
+3 - <trois>
+4 - <quatre>
+5 - <cinq>
+6 - <six>
+7 - <sept>
+8 - <huit>
+9 - <neuf>
+10 - <dix>
+11 - <onze>
+12 - <douze>
+13 - <treize>
+14 - <quatorze>
+15 - <quinze>
+16 - <seize>
+17 - <dis-sept>
+18 - <dis-huit>
+19 - <dis-neuf>
+20 - <vingt>
+30 - <trente>
+40 - <quarante>
+50 - <cinquante>
+60 - <soixante>
+80 - <quatre-vingt>
+21 - <vingt et un>
+22 - <vingt-deux>
+61 - <soixante et un>
+70 - <soixante-dix>
+90 - <quatre-vingt-dix>
+100 - <cent>
+200 - <deux cent>
+1000 - <mille>
+2000 - <deux mille>
+1/2 - <un demi>
+1/3 - <un tiers>
+1 m^2 – <un mètre carré>
+первый - <premier>
+второй - <deuxième>
+пятый - <cinquième>
+второй (счёт заканчивается) - <second>
+Aujourd'hui nous sommes <le premier> août, mais il fait très froid encore. - Сегодня первое августа, но все еще очень холодно.
+Son <deuxième> fils habite maintenant à Paris. - вЕе второй сын сейчас живет в Париже.
+On est dans le bureau numéro <quinze>. - Мы в кабинете номер 15.
+C'est ton <premier> voyage en Espagne? - Это твое первое путешествие в Испанию?
+Tu as lu <le septième> livre de Proust?- Ты прочитал седьмую книгу Пруста?
+Ils croient qu'ils seront à Nice le <dix-sept>. Они думают, что 17 числа будут в Ницце.
+Toute ma vie j'ai vecu au rez-de-chaussée, mais maintenant j'habite au <deuxième>. - Всю мою жизнь я прожил на первом этаже, но сейчас живу на третьем.
+Où ils célébreront le <huitième> anniversaire de leur fils? - Где они будут праздновать восьмой день рождения сына?
+Le billet au Louvre coûte <dix> euros. - Билет в Лувр стоит 10 евро.
+Aujourd'hui on interviewe le <troisième> meilleur joueur de tennis du monde entier. - Сегодня мы берем интервью у третьего лучшего теннисиста мира.
+C'est pour la <quatrième> fois que je regarde ce film. - Это четвертый раз, как я смотрю этот фильм.
+Il me semble ou tu bois la <dixième>> tasse de café? - Мне кажется, или ты пьешь десятую чашку кофе?
+Le <premier> mois il était assez silencieux au travail. - Первый месяц на своей работе он был достаточно молчалив.
+La maison est louée en <sept cent quatre-vingt-neuf> euros par mois. - Дом сдается за 789 евро в месяц.
+Je lis un chapitre <cinq>, il me reste encore sept. - Я читаю пятую главу, мне осталось еще 7.
+Aujourd'hui nous sommes <le deux septembre deux-mille-treize>. - Сегодня 2 сентября 2013 года.
+<Cinq et quinze font vingt> - Пять плюс пятнадцать равно двадцать
