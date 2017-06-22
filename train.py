@@ -9,7 +9,11 @@ class Session:
     def __init__(self):
         self.correct = 0
         self.invalid = 0
-        self.skipped = 0
+        self.errors = []
+
+    def reset(self):
+        self.correct = 0
+        self.invalid = 0
         self.errors = []
 
     @staticmethod
@@ -20,8 +24,7 @@ class Session:
 
     def __str__(self):
         return "Correct: " + str(self.correct) + \
-               ", invalid: " + str(self.invalid) + \
-               ", skipped: " + str(self.skipped)
+               ", invalid: " + str(self.invalid)
 
 
 class Question:
@@ -30,7 +33,7 @@ class Question:
         self.answers = re.findall(r"<([^>]+)>", line)
         self.answered = False
 
-    def check(self, answers):
+    def check(self, answers: List[str]):
         session = Session.get()
         for i, answer in enumerate(answers):
             if answer == self.answers[i]:
@@ -43,7 +46,7 @@ class Question:
                 print("Almost OK: " + self.answers[i])
             else:
                 session.invalid += 1
-                session.errors.append("Yours: " + answer +", correct: " + self.answers[i])
+                session.errors.append("yours: " + answer +", correct: " + self.answers[i])
                 print("Wrong: " + self.answers[i])
 
     @staticmethod
@@ -84,15 +87,19 @@ class Task:
         return unanswered_questions[number]
 
     def run(self):
+        print("Task: " + task.title)
         question = self.pick()
         while question is not None:
-            print("Task: " + self.title + ", question: " + question.request)
+            print("question: " + question.request)
             inp = input().strip()
             if self.handle_commands(inp):
                 continue
             else:
-                question.check([inp])
+                question.check(inp.split(","))
                 question = self.pick()
+        session = Session.get()
+        print(session)
+        session.reset()
 
     def handle_commands(self, inp):
         commands = ["/stat", "/errors", "/exit"]

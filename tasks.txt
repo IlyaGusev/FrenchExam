@@ -175,7 +175,7 @@ je <finis>
 tu <finis>
 il <finit>
 nous <finissons>
-vous <finissent>
+vous <finissez>
 ils <finissent>
 P.c.: <fini>
 
@@ -322,12 +322,12 @@ Hier matin, j'<ai rencontré> (rencontrer) Stella au marché.
 Hier soir, tu <as regardé> (regarder) un film à la télé.
 La semaine dernière, vous <avez visité> (visiter) le musée du Louvre.
 L'année dernière, nous <avons passé> (passer) nos vacances en Espagne.
-Hier soir, ils <ont> écouté (écouter) des disques des Beatles.
-Au lieu de mettre de l'huile dans la poêle, j'<ai mis> du beurre.
-Au lieu de prendre les clés du bureau, nous <avons pris> les clés de la cave.
-Au lieu de demander "Vous avez l'heure?", tu <as demandé> "Vous avez l'or?".
-Au lieu de mettre du sel dans les pâtes, elle <a mis> du sucre.
-Au lieu de prendre votre sac, vous <avez pris> le sac à poubelle.
+Hier soir, ils <ont écouté> (écouter) des disques des Beatles.
+Au lieu de mettre de l'huile dans la poêle, j'<ai mis>(mettre) du beurre.
+Au lieu de prendre les clés du bureau, nous <avons pris> (prendre) les clés de la cave.
+Au lieu de demander "Vous avez l'heure?", tu <as demandé> (demander) "Vous avez l'or?".
+Au lieu de mettre du sel dans les pâtes, elle <a mis> (mettre) du sucre.
+Au lieu de prendre votre sac, vous <avez pris> (prendre) le sac à poubelle.
 
 # Le passé composé avec AVOIR-2
 J'<ai commencé> (commencer) à travailler à neuf heures.
@@ -337,7 +337,7 @@ J'<ai mangé> (manger) dans le jardin.
 J'<ai marché> (marcher).
 J'<ai regardé> (regarder) les vitrines.
 J'<ai téléphoné> (téléphoner) à Dorota.
-J'<ai recommnecé> (recommencer) le travail à deux heures.
+J'<ai recommencé> (recommencer) le travail à deux heures.
 J'<ai terminé> (terminer) à six heures.
 J'<ai passé> (passer) la soirée avec Dorota.
 On <a écouté> (écouter) des disques.
@@ -372,7 +372,7 @@ Mais Paul <a trouvé> (trouver) les clés et <a fermé> (fermer) le bureau.
 дверь - <une porte>
 нижний этаж - <un rez-de-chaussée>
 крыша - <un toit>
-комната(m) - <une pièce>
+комната(m) - <un pièce>
 комната(f) - <une chambre>
 кухня - <une cuisine>
 коридор - <une entrée>
@@ -387,7 +387,7 @@ Mais Paul <a trouvé> (trouver) les clés et <a fermé> (fermer) le bureau.
 ванна - <une baignoire>
 диван - <un canapé>
 стул - <une chaise>
-крвоать-мамонт - <des lits superposés>
+кровать-мамонт - <des lits superposés>
 полка - <une étagère>
 раковина - <l'évier>
 кресло - <un fauteuil>
@@ -399,7 +399,7 @@ Mais Paul <a trouvé> (trouver) les clés et <a fermé> (fermer) le bureau.
 телевизор - <un ordinateur>
 фото - <une photo>
 стенной шкаф - <un placard>
-электроплита - <une plaque élecrique>
+электроплита - <une plaque électrique>
 вешалка - <un portemanteau>
 диван-софа - <un sofa>
 будильник - <un réveil>
