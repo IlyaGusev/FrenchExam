@@ -156,7 +156,7 @@ P.c.: <écrit>
 je <mets>
 tu <mets>
 il <met>
-nous <metton>
+nous <mettons>
 vous <mettez>
 ils <mettent>
 P.c.: <mis>
@@ -215,7 +215,7 @@ vous <buvez>
 ils <boivent>
 P.c.: <bu>
 
-# conaitre
+# connaitre
 je <connais>
 tu <connais>
 il <connait>
@@ -242,7 +242,7 @@ vous <vivez>
 ils <vivent>
 P.c.: <vécu>
 
-## Существительные - перевод
+## Существительные
 # Числа
 0 - <zéro>
 1 - <un>
@@ -261,9 +261,9 @@ P.c.: <vécu>
 14 - <quatorze>
 15 - <quinze>
 16 - <seize>
-17 - <dis-sept>
-18 - <dis-huit>
-19 - <dis-neuf>
+17 - <dix-sept>
+18 - <dix-huit>
+19 - <dix-neuf>
 20 - <vingt>
 30 - <trente>
 40 - <quarante>
@@ -303,3 +303,122 @@ La maison est louée en <sept cent quatre-vingt-neuf> euros par mois. - Дом �
 Je lis un chapitre <cinq>, il me reste encore sept. - Я читаю пятую главу, мне осталось еще 7.
 Aujourd'hui nous sommes <le deux septembre deux-mille-treize>. - Сегодня 2 сентября 2013 года.
 <Cinq et quinze font vingt> - Пять плюс пятнадцать равно двадцать
+
+## Moodle Unit 4
+# Test pour commencer 2
+Vous vous <appelez> comment? – Je <m'appelle> Lucie Lepavec.
+Tu <prends> le RER le matin ? – Non, je <vais> à l’université en bus.
+Qu’est-ce qu’elle <fait>? – Elle <est> étudiante.
+Je <voudrais> un billet pour Paris. Ça coûte <combien>?
+Le guichet est ouvert <de> 6-30 <à> 23-30.
+Alors Vincent, on <va> (aller) au restaurant à midi ?
+Nous sommes ingénieurs. Et <elles>? - Elles sont programmeurs.
+La fontaine est loin <du> musée ? – Non, elle n'est <pas> <loin> du musée.
+Pour aller <au> théâtre, vous allez <tout> droit et vous prenez la <première> (1ère) à gauche.
+Jean Legoff, <le> nouveau responsable de <la> gare de Franceville aime <les> trains.
+
+# Le passé composé avec AVOIR-1
+Hier matin, j'<ai rencontré> (rencontrer) Stella au marché.
+Hier soir, tu <as regardé> (regarder) un film à la télé.
+La semaine dernière, vous <avez visité> (visiter) le musée du Louvre.
+L'année dernière, nous <avons passé> (passer) nos vacances en Espagne.
+Hier soir, ils <ont> écouté (écouter) des disques des Beatles.
+Au lieu de mettre de l'huile dans la poêle, j'<ai mis> du beurre.
+Au lieu de prendre les clés du bureau, nous <avons pris> les clés de la cave.
+Au lieu de demander "Vous avez l'heure?", tu <as demandé> "Vous avez l'or?".
+Au lieu de mettre du sel dans les pâtes, elle <a mis> du sucre.
+Au lieu de prendre votre sac, vous <avez pris> le sac à poubelle.
+
+# Le passé composé avec AVOIR-2
+J'<ai commencé> (commencer) à travailler à neuf heures.
+J'<ai travaillé> (travailler) jusqu'à midi.
+À midi, j'<ai déjeuné> (déjeuner): j'<ai acheté> (acheter) un sandwich.
+J'<ai mangé> (manger) dans le jardin.
+J'<ai marché> (marcher).
+J'<ai regardé> (regarder) les vitrines.
+J'<ai téléphoné> (téléphoner) à Dorota.
+J'<ai recommnecé> (recommencer) le travail à deux heures.
+J'<ai terminé> (terminer) à six heures.
+J'<ai passé> (passer) la soirée avec Dorota.
+On <a écouté> (écouter) des disques.
+Puis, j'<ai joué> (jouer) de la guitare et on <a chanté> (chanter).
+Vous <avez fait> (faire) votre travail?
+Oui, j'<ai fait> (faire) tout à temps.
+Vous <avez fermé> (fermer) le bureau?
+Non, j'<ai oublié> (oublier) les clés sur la table.
+Mais Paul <a trouvé> (trouver) les clés et <a fermé> (fermer) le bureau.
+
+# Lexique - verbes
+вешать - <accrocher>
+приносить - <apporter>
+изменять - <changer>
+перемещаться - <déménager>
+послать - <envoyer>
+арендовать - <louer>
+ставить - <mettre>
+предпочитать - <préférer>
+упорядочивать - <ranger>
+
+# Lexique - appartement
+здание - <un bâtiment>
+квартира - <un appartement>
+лифт - <un ascenseur>
+подвал - <une cave>
+угол - <un coin>
+окно - <une fenêtre>
+сад - <un jardin>
+дом - <une maison>
+стена - <un mur>
+дверь - <une porte>
+нижний этаж - <un rez-de-chaussée>
+крыша - <un toit>
+комната(m) - <une pièce>
+комната(f) - <une chambre>
+кухня - <une cuisine>
+коридор - <une entrée>
+столовая - <une salle à manger>
+ванная - <une salle de bains>
+гостиная - <un salon>
+туалет - <les toilettes>
+
+# Lexique - meubles
+плакат - <une affiche>
+шкаф для одежды - <une armoire>
+ванна - <une baignoire>
+диван - <un canapé>
+стул - <une chaise>
+крвоать-мамонт - <des lits superposés>
+полка - <une étagère>
+раковина - <l'évier>
+кресло - <un fauteuil>
+холодильник - <un frigo>
+лампа - <une lampe>
+умывальник - <un lavabo>
+кровать - <un lit>
+книга - <un livre>
+телевизор - <un ordinateur>
+фото - <une photo>
+стенной шкаф - <un placard>
+электроплита - <une plaque élecrique>
+вешалка - <un portemanteau>
+диван-софа - <un sofa>
+будильник - <un réveil>
+занавес - <un rideau>
+тумбочка - <une table de nuit>
+ковёр - <un tapis>
+выдвижной ящик - <un tiroir>
+одежда - <un vêtement>
+
+# Lexique - autre
+воздух - <l'air>
+приятель - <un copain>
+приятельница - <une copine>
+очаровательный - <enchanté>
+девушка - <une fille>
+сок - <jus>
+арендатор - <un locataire>
+арендодатель - <un loyer>
+музыка - <musique>
+маленький - <petit>
+владелец - <un propriétaire>
+сестра - <une soeur>
