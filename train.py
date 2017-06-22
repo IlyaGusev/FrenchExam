@@ -1,7 +1,7 @@
 import re
 import random
 from typing import List, Dict
-
+from termcolor import colored
 
 class Session:
     session = None
@@ -39,15 +39,15 @@ class Question:
             if answer == self.answers[i]:
                 session.correct += 1
                 self.answered = True
-                print("OK")
+                print(colored('OK', 'green'))
             elif answer == self.__latinize__(self.answers[i]):
                 session.correct += 1
                 self.answered = True
-                print("Almost OK: " + self.answers[i])
+                print(colored("Almost OK: " + self.answers[i], 'yellow'))
             else:
                 session.invalid += 1
                 session.errors.append("yours: " + answer +", correct: " + self.answers[i])
-                print("Wrong: " + self.answers[i])
+                print(colored("Wrong: " + self.answers[i], 'red'))
 
     @staticmethod
     def __latinize__(text):
@@ -87,10 +87,10 @@ class Task:
         return unanswered_questions[number]
 
     def run(self):
-        print("Task: " + task.title)
+        print(colored("Task: " + task.title, 'magenta'))
         question = self.pick()
         while question is not None:
-            print("question: " + question.request)
+            print(colored(question.request, 'cyan'))
             inp = input().strip()
             if self.handle_commands(inp):
                 continue
