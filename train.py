@@ -3,6 +3,7 @@ import random
 from typing import List, Dict
 from termcolor import colored
 
+
 class Session:
     session = None
 
@@ -35,19 +36,22 @@ class Question:
 
     def check(self, answers: List[str]):
         session = Session.get()
+        ok = []
         for i, answer in enumerate(answers):
             if answer == self.answers[i]:
                 session.correct += 1
-                self.answered = True
+                ok.append(i)
                 print(colored('OK', 'green'))
             elif answer == self.__latinize__(self.answers[i]):
                 session.correct += 1
-                self.answered = True
+                ok.append(i)
                 print(colored("Almost OK: " + self.answers[i], 'yellow'))
             else:
                 session.invalid += 1
                 session.errors.append("yours: " + answer +", correct: " + self.answers[i])
                 print(colored("Wrong: " + self.answers[i], 'red'))
+        if len(ok) == len(answers):
+            self.answered = True
 
     @staticmethod
     def __latinize__(text):
@@ -95,7 +99,7 @@ class Task:
             if self.handle_commands(inp):
                 continue
             else:
-                question.check(inp.split(","))
+                question.check([answer.strip() for answer in inp.split(",")])
                 question = self.pick()
         session = Session.get()
         print(session)

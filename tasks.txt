@@ -304,7 +304,7 @@ Je lis un chapitre <cinq>, il me reste encore sept. - Я читаю пятую �
 Aujourd'hui nous sommes <le deux septembre deux-mille-treize>. - Сегодня 2 сентября 2013 года.
 <Cinq et quinze font vingt> - Пять плюс пятнадцать равно двадцать
 
-## Moodle Unit 4
+## Unit 4
 # Test pour commencer 2
 Vous vous <appelez> comment? – Je <m'appelle> Lucie Lepavec.
 Tu <prends> le RER le matin ? – Non, je <vais> à l’université en bus.
@@ -396,7 +396,7 @@ Mais Paul <a trouvé> (trouver) les clés et <a fermé> (fermer) le bureau.
 умывальник - <un lavabo>
 кровать - <un lit>
 книга - <un livre>
-телевизор - <un ordinateur>
+компьютер - <un ordinateur>
 фото - <une photo>
 стенной шкаф - <un placard>
 электроплита - <une plaque électrique>
@@ -422,3 +422,288 @@ Mais Paul <a trouvé> (trouver) les clés et <a fermé> (fermer) le bureau.
 маленький - <petit>
 владелец - <un propriétaire>
 сестра - <une soeur>
+
+# Les adjectifs possessifs
+Adèle a une mère. <Sa> mère est brune.
+Tu as un frère. <Ton> frère est beau.
+J'ai une soeur. <Ma> soeur est belle.
+Pierre a une grand-mère. <Sa> grand-mère est très bonne.
+Tu as un grand-père. <Ton> grand-père est très gentil.
+
+# Les pronoms démonstratifs
+Cet étudiant est allemand. - <Cette> étudiante est <allemande>.
+Cet étudiant est allemand. - <Ces> étudiants sont <allemands>.
+Cet étudiant est allemand. - <Ces> étudiantes sont <allemandes>.
+<Ce> matin, je vais au bureau.
+<Cet> après-midi, on déjeune sur la terrasse.
+<Cette> nuit, il y a une éclipse de lune.
+
+## Unit 5
+# Le passé composé - ASAP
+Сегодня я увидела его в первый раз. – Aujourd'hui, je <l'ai vu> pour la première fois.
+Она поговорила со своими родителями? - Elle <a parlé> avec ses parents?
+Мы вернулись на этой неделе, но еще никого не видели. - On <est revenu> cette semaine mais on <n'a vu> personne encore.
+Мы сошли на станции "Северный вокзал" и потерялись. - Nous <sommes descendus> (descendir) à la station "Gare du Nord" et nous <nous sommes perdus> (perdre).
+В этом году я познакомилась с моим лучшим другом. - Cette année, j'<ai fait> la connaissance de mon meilleur ami.
+Мы приехали вовремя. - Nous <sommes arrivés> à l'heure.
+Мы уже поели сегодня. - On <a dejà mangé> aujourd'hui.
+Она надела свое лучшее платье и пошла на вечеринку. - Elle <a mis> sa meilleure robe et elle <est allée> à la fête.
+Вы собрали чемодан? - Vous <avez fait> (faire) votre valise?
+Анна разбила все тарелки в доме. - Anne <a cassé> (casser) toutes les assiettes dans la maison.
+Вы не смогли разрешить нашу проблему, поэтому мы уходим. - Vous <n'avez pas pu> résoudre notre problème, c'est pourquoi on s'en va.
+Я спросил про хороший ресторан и мне посоветовали этот. - J'<ai demandé> un bon restaurant et on <m'a conseillé> (se conseiller) celui-ci.
+В эти выходные я отдохнул немного: съездил на пляж и позагорал. - Ce week-end, je <me suis reposé> un peu: je <suis allé> à la plage et j'<ai bruni> (brunir) au soleil.
+В эти выходные я пригласил их провести время в деревне. - Ce week-end, je <les ai invité> de passer le temps à la campagne.
+Вы много работали в прошлом году? - Vous <avez beaucoup travaillé> l'année passée.
+После университета я начал работать в одной международной компании. - Après l'université j'<ai commencé> (commencer) à travailler dans une société internationale.
+Они сели за стол и начали разговаривать о своих проблемах. - Ils <se sont mis> à table et ils <ont commencé> (commencer) à parler de leurs problèmes.
+Что вы сделали вчера вечером? - Qu'est-ce que vous <avez fait> hier soir?
+Я не спал всю ночь. - Je <n'ai pas dormi> (dormir) toute la nuit.
+Что произошло в тот год? - Qu'est-ce qui <s'est passé> (se passer) cette année-là?
+Дети захотели спать и ушли домой. - Les enfants <ont voulu dormir> et ils <sont partis> chez eux.
+В прошлом месяце мы устроили 3 праздника в этом зале - Le mois passé, on <a organisé> trois fêtes dans cette salle.
+Сожалею, но мы забыли принести тебе бумаги. - Désolé, mais nous <avons oublié> (oublier) de t'apporter les papiers.
+Ты посмотрел эту программу вчера вечером? - Tu <as regardé> cette émission hier soir?
+Обычно он приезжает вовремя, но вчера он приехал с опозданием. - D'habitude, il vient à l'heure mais hier, il <est venu> en retard.
+В прошлый понедельник я съездил в Консульство и получил визу. - Lundi passé, je <suis allé> au Consulat et j'<ai reçu> le visa.
+Позавчера мы поругались. - Avant hier, nous <nous sommes querellés> (se quereller).
+Это правда, что вчера вечером вы встретились в парке и пошли в бассейн? - C'est vrai que hier soir vous <vous êtes rencontrés> dans le parc et vous <êtes allés> à la piscine?
+Наши друзья говорят, что очень повеселились на этом празднике. - Nos amis disent qu'ils <se sont beaucoup amusés> (se amuser) à cette fête.
+Когда ты мыл пол в последний раз? - Quand tu <as lavé> (laver) le plancher pour la dernière fois?
+
+# Lexique - les verbs
+управлять - <maîtriser>
+терпеть - <patienter>
+покидать - <quitter>
+вербовать - <recruter>
+отвечать - <répondre>
+найти - <trouver>
+подходить - <adapté>
+
+# Lexique - travail
+агенство - <une agence>
+приятный - <agréable>
+приложение (к письму) - <attaché>
+подработка - <uns petit boulot>
+кандидатура - <une candidature>
+безработица - <un chômage>
+коммерческий - <commercial>
+учёт - <un comptable>
+развитие - <un développement>
+запись, дело - <un dossier>
+наем - <une embauche>
+расписание - <un emploi du temps>
+обслуживание - <un entretien>
+реклама - <une annonce>
+мотивационное письмо - <une lettre de motivation>
+рукопись - <un manuscrit>
+предложение - <une offre>
+водительские права - <un permis de conduire>
+продукт - <un produit>
+вознаграждение - <une rémunération>
+встреча - <une réunion>
+обучение - <un stage>
+полезный - <utile>
+продажа - <une vente>
+обязанность - <devoir>
+
+# Lexique - qualités
+коммуникативный - <communicatif>
+знающий - <connaissance>
+креативный - <créatif>
+сдеражанный - <discret>
+динамичный - <dynamique>
+заинтересованный - <intéressé>
+обстоятельный - <minutieux>
+страстный - <passionné>
+терпиливый - <patient>
+серьёзный - <sérieux>
+специализированный - <spécialisé>
+
+# Lexique - autre
+в то время как - <à la fois>
+у аппарата - <à l’appareil>
+до вашего сведения - <à l'attention de>
+что касается - <à propos de>
+после - <après>
+сопровождаемый - <accompagné>
+конечно - <bien sûr>
+завтра - <demain>
+замечательный - <formidable>
+мгновение - <un instant>
+чувство - <un sens>
+тема - <un sujet>
+в целом, абсолютно - <tout à fait>
+зарплата - <salaire>
+
+# Lexique - compose
+Я видел ваше объявление - <J'ai vu votre annonce>
+Агенство по набору персонала - <Agence de recrutement>
+Назначить встречу - <Prendre rendez-vous>
+Знание английского языка желательно - <Connaissance de l'anglais est désirable>
+Ваше предложение меня заинтересовало - <Je suis intéressé par votre offre>
+
+# Pronoms
+Vous prenez le métro à huit heures ? - Oui, je <le prends> à huit heures.
+Vous lisez le journal dans le métro ? - Oui, je <le lis> dans le métro.
+Vous faites tous les exercices ? - Oui, nous <les faisons> tous.
+Le devoir, l'étudiant <le> fait.
+Le championnat, elle espère <le> gagner.
+Nos vacances, nous comptons <les> avoir en juillet.
+Marie Curie, elle <l'>admire.
+Paul et Marie, nous allons <les> attendre à la gare. 
+Ce livre, <le> trouvez-vous intéressant?
+La salade, ils <la> mangent.
+Ce travail, je <le> finis dans deux heures.
+Cette fille, je ne <l'> aime pas.
+Les compositions, Il <les> fait tous les jours.
+Il écrit le test? - Oui, il <l'écrit>.
+Vous prenez en photo cette belle maison? - Non, nous <ne la prenons pas> en photo.
+Pierre range leurs meubles? - Non, il <ne les range pas>.
+Ont-ils fait ce travail? - Oui, ils <l'ont> fait.
+Elle a mis le tabouret? - Non, elle <ne l'a pas mis>.
+As-tu compris les textes? - Non, je <ne les ai pas compris>.
+
+## Unit 6
+# Lexique - les verbs
+обожать - <adorer>
+содержать - <contenir>
+думать, верить - <croire>
+зависеть - <dépendre>
+ненавидеть - <détester>
+пробовать - <goûter>
+стать видимым - <paraître>
+думать - <penser>
+
+# Lexique - repas, nourriture
+чеснок - <un ail>
+снабжение - <une amimentation>
+морковь - <une carotte>
+вишня - <une cerise>
+мясная тарелка - <une charcuterie>
+лимон - <un citron>
+огурец - <un concombre>
+блин - <une crêpe>
+мука - <une farine>
+клубника - <une fraise>
+картофель фри - <des frites>
+сыр - <un fromage>
+фрукт - <un fruit>
+завтрак, обед - <un déjeuner>
+обед, ужин - <un dîner>
+пирожное - <un gâteau>
+мороженое - <une glace>
+масло - <une huile>
+ветчина - <un jambon>
+овощи - <des légumes>
+яйцо - <un oeuf>
+тесто - <une pâte>
+завтрак - <un petit déjeuner>
+душистый перец - <un piment>
+основное блюдо - <un plat principal>
+рыба - <un poisson>
+перец - <un poivre>
+яблоко - <une pomme>
+картофель - <une pomme de terre>
+курица - <un poulet>
+виноград - <un raisin>
+тёртый - <râpé>
+рис - <un riz>
+соль - <un sel>
+сахар - <un sucre>
+замороженный - <surgelé>
+пирог - <une tarte>
+мясо - <une viande>
+вино - <un vin>
+уксус - <un vinaigre>
+домашняя птица - <une volaille>
+
+# Lexique - goûts
+кислый - <acide>
+аппетитный - <appétissant>
+горький - <amer>
+отвратительный - <écoeurant>
+острый - <épicé>
+отличный - <exellent>
+сильный - <fort>
+зрелый - <mûr>
+
+# Lexique - portions
+блюдо - <une assiette>
+чаша - <un bol>
+бутылка - <une bouteille>
+ложка - <une cuillère>
+вилка - <une fourchette>
+тарелка - <un plateau>
+чашка - <une tasse>
+стакан - <un verre>
+
+# Lexique - repas sain
+худой - <amaigrissant>
+расчёт - <un calcul>
+калория - <une calorie>
+совет - <un conseil>
+диетврач - <un diététicien>
+сбалансированный - <équilibré>
+крахмальный - <féculent>
+углеводы - <des glucides>
+жир - <gras>
+белок - <la protéine>
+качество - <la qualité>
+вегетарианский - <végétarien>
+
+# Lexique - auter
+точка зрения - <avis>
+удобно - <convivial>
+по-твоему - <à votre avis>
+достаточно - <assez de>
+больше - <autant>
+много - <beaucoup>
+автомобиль - <un voiture>
+дерево - <un arbre>
+
+# Les articles partitifs
+Je prends <du> riz.
+J'ai mangé <de la> viande.
+Avez-vous acheté <des> raisins au marché ?
+Je n'ai pas <de> sel.
+As-tu mangé <de la> confiture?
+Voulez-vous encore <des> frites?
+Merci, je ne veux pas <des> frites.
+Je reprends <du> lait.
+Est-ce qu'on a encore <de l'> huile d'olive ?
+Non, on n'a plus <une> huile d'olive.
+Pour faire les crêpes il faut: <du> lait,  <de la> farine,  <des> oeufs,  <du> beurre,  <du> sel.
+Pour faire la soupe au pistou il faut: <des> haricots verts,  <des> carottes,  <des> tomates,  <de l'> huile d'olive, mais il ne faut pas <de> poisson.
+Dans une bonne maison, il y a <du> soleil, <de l'> espace, <des> rangements.
+Dans un bon film, il y a <du> suspense, <de l'> action, <de l'> amour
+J'ai acheté <des> livres et <du> papier.
+Je voudrais manger <de la> glace.
+Avez-vous <de l'> eau, s'il vous plaît?
+Non, je n'ai pas <d'> eau mais j'ai <du> lait.
+Tu me donnes <de l'> argent?
+Tu veux <des> pièces ou <des> billets?
+<Des> pièces, c'est pour acheter <du> pain.
+Je ne veux pas <de> pommes!
+Je prendrais <du> poulet avec <des> frites.
+Désolé, nous n'avons plus <de> poulet!
+Pour faire les crêpes, nous faut acheter: un demi-kilo <de> farine, deux cents grammes <du> beurre, <du> lait, <de l'> eau gazeuse, <du> sel, <des> oeufs, <de la> marmelade, un pot <de> crème fraîche...
+Encore, n'oublie pas un paquet <de> bonbons pour les enfants et un bouquet <de> fleurs pour maman!
+Est-ce qu'il y a <du> lait dans le frigo ? - Oui, une bouteille <de> lait.
+Est-ce qu'il y a <du> sucre dans le garde-manger ? - Non, il n'y a pas <de> sucre.
+Est-ce qu'il y a <de la> confiture dans le garde-manger ? - Oui, un pot <de> confiture.
+Est-ce que tu as acheté <des> pommes de terre ? - Non, nous avons encore un sac <de> pommes de terre.
+Pourquoi tu achètes <des> légumes ? - Parce que c'est bien pour mon régime : il y a beaucoup <de> vitamines, peu <de> féculents et il y a encore <des> fibres.
+
+# La comparaison
+L'argent est <plus> précieus <que> le cuivre, mais <moins> précieux <que> l'or.
+Une voiture est <moins> rapide <qu'> un train, mais <plus> rapide <qu'> un vélo.
+À New York, il y a <plus de> gratte-ciel <qu'> à Paris.
+Il y a <moins de> calories dans les légumes <que> dans la viande.
+En mars il y a <autant de> jours <qu'> en mai.
+Les tomates sont <aussi> bonnes pour la santé <que> les pommes.
+
+# Les articles partitifs + l'inversion
+Que <manges-tu> le matin? - Je mange <du> beurre et <de la> confiture.
+Et ton mari, que <mange-t-il>? - Il  mange <du> fromage et boit <du> café.
+Le soir, que <mangez-vous>? (vous) - Le soir, nous mangeons <du> riz, <des> pâtes ou <de la> soupe.
