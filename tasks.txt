@@ -304,6 +304,57 @@ Je lis un chapitre <cinq>, il me reste encore sept. - Я читаю пятую �
 Aujourd'hui nous sommes <le deux septembre deux-mille-treize>. - Сегодня 2 сентября 2013 года.
 <Cinq et quinze font vingt> - Пять плюс пятнадцать равно двадцать
 
+# Autre
+подбирать - <relever>
+относительно - <conecernant>
+место - <un lieu>
+местожительство - <un domicile>
+перепись - <recensement>
+полночь - <minuit>
+полдень - <midi>
+
+# Les professions
+музыкант - <musicien>
+актёр - <acteur>
+художник - <peintre>
+мясник - <bouche>
+булочник - <boulanger>
+бакалейщик - <épicier>
+водопроводчик <plombier>
+врач - <médecin>
+инженер - <ingénieur>
+
+# Les nationalités
+японец - <japonais>
+немец - <allemand>
+испанец - <espangol>
+русский - <russe>
+англичанин - <anglais>
+бельгиец - <belge>
+
+# Les sjours de la semaine
+понедельник - <lundi>
+вторник- <mardi>
+среда - <mercredi>
+четверг - <jeurdi>
+пятница - <vendredi>
+суббота - <samedi>
+воскресенье - <dimanche>
+
+# Les mois
+январь - <janvier>
+февраль - <fevrier>
+март - <mars>
+апрель - <avril>
+май - <mai>
+июнь - <juin>
+июль - <juillet>
+август - <aout>
+сентябрь - <septembre>
+октябрь - <octobre>
+ноябрь - <novembre>
+декабрь - <decembre>
+
 ## Unit 4
 # Test pour commencer 2
 Vous vous <appelez> comment? – Je <m'appelle> Lucie Lepavec.
@@ -707,3 +758,24 @@ Les tomates sont <aussi> bonnes pour la santé <que> les pommes.
 Que <manges-tu> le matin? - Je mange <du> beurre et <de la> confiture.
 Et ton mari, que <mange-t-il>? - Il  mange <du> fromage et boit <du> café.
 Le soir, que <mangez-vous>? (vous) - Le soir, nous mangeons <du> riz, <des> pâtes ou <de la> soupe.
+
+## Final
+# Grammaire
+-Qu'est-ce que tu achétes? - Cette table, <ce> bureau et <ces> étagéres
+-Qu'est-ce que vous <faites> dans la vie? - Je travaille au bureau de vente.
+Tu <connais>(connaitre) les Dipont? - Oui, je dine aujourd'hui chez <toi>.
+Hier, je <ai> <mangé> au restaurant.
+Ou est la secretatire? Je <l'ai vu> (voir) prés <de> <l'> administration.
+Au lieu de prendre le clés du bureau, nous <avons> <pris> les clés de la cave.
+Je <suis> <allé> au marché <des> oiseaux et je <'ai> <acheté> des oiseaux
+En général, ma soeur vient chez elle a s7 heures, mais hier, elle <a> <venu> à minuit.
+Abel est allé à Rio. Sa femme <est> <allé> en Sicile.
+Le cinéma se trouve loin <que> théâtre.
+M.Dumas <est> <sorti> dans la rue et <a> <regardé> autour.
+Vous prenez <le> métro à huit heures? - Oui, je <le> <prends> à huit heures.
+Tu sais où je <ai> <pris> mes affaires? - Tu <les> <as> <pris> dans le tiroir.
+Julie, je <ne> <l'> aime pas.
+<Avez>-vous pris en photo cette belle maison. - Non, nous ne <la> <prenons> <pas>
+<A-tu> mangé <des> raisins? - None je n'aime pas <de> raisins.
+Est-ce qus'on <a> encore <de> <la> huile d'olive? - Oui, mais l n'y a pas <de> sel.
+La confiture est <du> sucrée <avec> le citron.
